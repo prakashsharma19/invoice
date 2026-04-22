@@ -1,25 +1,34 @@
-<svg width="520" height="180" viewBox="0 0 520 180" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<svg width="640" height="180" viewBox="0 0 640 180" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">CPS TechLabs Logo</title>
-  <desc id="desc">Stylized CPS TechLabs wordmark with a code-themed icon.</desc>
+  <desc id="desc">Professional CPS TechLabs brand mark with a code-inspired icon and clean wordmark.</desc>
 
-  <rect width="520" height="180" rx="16" fill="white"/>
+  <rect width="640" height="180" rx="14" fill="#FFFFFF"/>
 
-  <g transform="translate(24,26)">
-    <rect x="44" y="8" width="150" height="94" rx="12" stroke="#06224F" stroke-width="8"/>
-    <path d="M66 55L82 45V53L73 58L82 63V71L66 61V55Z" fill="#06224F"/>
-    <path d="M103 78L122 36H131L112 78H103Z" fill="#06224F"/>
-    <path d="M147 45L163 55V61L147 71V63L156 58L147 53V45Z" fill="#06224F"/>
-
-    <g fill="#1C5CB8">
-      <rect x="0" y="20" width="14" height="14" rx="3"/>
-      <rect x="20" y="38" width="14" height="14" rx="3"/>
-      <rect x="0" y="56" width="14" height="14" rx="3"/>
-      <rect x="22" y="74" width="14" height="14" rx="3"/>
+  <g transform="translate(28,30)">
+    <g>
+      <rect x="24" y="8" width="104" height="104" rx="18" fill="#EEF4FF"/>
+      <rect x="24" y="8" width="104" height="104" rx="18" stroke="#1D4F9D" stroke-width="6"/>
+      <path d="M54 60L68 50V58L62 62L68 66V74L54 64V60Z" fill="#123870"/>
+      <path d="M76 86L92 34H98L82 86H76Z" fill="#123870"/>
+      <path d="M106 50L120 60V64L106 74V66L112 62L106 58V50Z" fill="#123870"/>
     </g>
 
-    <path d="M18 102C62 128 138 128 238 92" stroke="#1C5CB8" stroke-width="10" stroke-linecap="round"/>
+    <g fill="#2C69C5">
+      <rect x="0" y="28" width="12" height="12" rx="3"/>
+      <rect x="0" y="54" width="12" height="12" rx="3"/>
+      <rect x="0" y="80" width="12" height="12" rx="3"/>
+      <rect x="140" y="28" width="12" height="12" rx="3"/>
+      <rect x="140" y="54" width="12" height="12" rx="3"/>
+      <rect x="140" y="80" width="12" height="12" rx="3"/>
+    </g>
   </g>
 
-  <text x="250" y="84" font-family="Segoe UI, Arial, sans-serif" font-size="46" font-weight="800" fill="#06224F" text-anchor="middle">CPS <tspan fill="#1C5CB8">TechLabs</tspan></text>
-  <text x="250" y="124" font-family="Segoe UI, Arial, sans-serif" font-size="18" letter-spacing="5" fill="#0D1B34" text-anchor="middle">CODE. INNOVATE. SOLVE.</text>
+  <g font-family="Segoe UI, Inter, Arial, sans-serif">
+    <text x="215" y="84" font-size="52" font-weight="800" fill="#0E2F63">
+      CPS <tspan fill="#2C69C5">TechLabs</tspan>
+    </text>
+    <text x="217" y="118" font-size="16" font-weight="600" letter-spacing="3.2" fill="#425A79">
+      CODE • INNOVATE • SOLVE
+    </text>
+  </g>
 </svg>
